@@ -2,6 +2,8 @@
 
 == Stepped motor controlled with joystick
 
+NOTE: This is test-only solution. Because of using "delay" is incorrect.
+
 Created with https://www.jetbrains.com/clion/[CLion] and https://plugins.jetbrains.com/plugin/13922-platformio-for-clion[PlatformIO] plugin
 
 .Layout
